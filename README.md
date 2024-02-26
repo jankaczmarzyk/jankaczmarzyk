@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jankaczmarzyk
 - 👀 I’m interested in using programming languages in financial modelling and risk analysis
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently teaching Python for quantitative finance
 - 📫 How to reach me: via jan.kaczmarzyk@ue.katowice.pl
 - ⚡ Fun fact: In prog music I trust
 
